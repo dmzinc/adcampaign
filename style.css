@@ -6,11 +6,17 @@
 #footer {
   background-color: black;
   height: 35px;
-  margin-top: 100px;
+  width: 1320px;
+  margin-bottom: -50px;
 }
 #footer a {
   text-decoration: none;
 }
+a:visited {
+  color: white;
+}
 .copy {
   color: white;
+  line-height: 30px;
+  word-spacing: 7px;
 }
