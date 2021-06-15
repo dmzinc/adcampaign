@@ -5,8 +5,8 @@
 
 #footer {
   background-color: black;
-  height: 35px;
-  width: 1320px;
+  height: auto;
+  width: auto;
   margin-bottom: -50px;
 }
 #footer a {
@@ -17,6 +17,6 @@ a:visited {
 }
 .copy {
   color: white;
-  line-height: 30px;
-  word-spacing: 7px;
+  line-height: 40px;
+  word-spacing: 2px;
 }
